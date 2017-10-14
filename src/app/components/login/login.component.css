@@ -1,5 +1,37 @@
+.login{
+  margin-top:100px
+}
 .example-card {
     width: 400px;
+    margin: auto;
+  }
+
+  .login-content{
+    padding-bottom:40px;
+    padding-top: 20px
+    
+  }
+
+  .heading{
+    background: #19AA8D;
+    color: white;
+  }
+  mat-card-actions{
+    padding: 0px 20px;
+  }
+
+  .login-button{
+    width: 100%;
+    margin: auto;
+    background: #19AA8D;
+    color: white;
+    font-size: 1.2em;
+    padding: 5px;
+  }
+
+  .example-full-width {
+    width: 100%;
+    font-size: 1.45em
   }
   
   .example-header-image {
